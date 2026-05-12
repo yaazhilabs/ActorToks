@@ -1,7 +1,15 @@
 {
-  "version": 1,
-  "dataFile": "actors_generated.json.gz",
-  "actorCount": 231299,
-  "sizeMb": 39,
-  "updatedAt": "2026-03-25T00:00:00Z"
+  "version": 2,
+  "format": "sharded",
+  "shardsIndex": "https://yaazhilabs.github.io/ActorToks/data/shards/index.json",
+  "actorCount": 228874,
+  "shardCount": 40,
+  "sizeMb": 35,
+  "updatedAt": "2026-05-12T00:00:00Z",
+  "legacy": {
+    "dataFile": "actors_generated.json.gz",
+    "actorCount": 228874,
+    "sizeMb": 35,
+    "note": "Pre-sharding monolithic download. Kept for v1 release-installed clients that haven't migrated to shard-based sync."
+  }
 }
