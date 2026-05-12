@@ -4,7 +4,7 @@
   "releaseTag": "data-v2",
   "baseUrl": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2",
   "totalActors": 228874,
-  "totalSize": 36925751,
+  "totalSize": 38317535,
   "shardCount": 40,
   "shards": [
     {
@@ -13,8 +13,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/united_states.json.gz",
       "filename": "united_states.json.gz",
       "actorCount": 34882,
-      "size": 8700397,
-      "sha256": "5d4cf9dcd16581c7dd7aac83cde7a5c69662db8540066387537dc6fc87059dc0"
+      "size": 8946365,
+      "sha256": "9e88f460d6013c6c24d5ccdaca1374aadc66d1d35e80be5be629044a1bbff2ef"
     },
     {
       "id": "unknown",
@@ -22,8 +22,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/unknown.json.gz",
       "filename": "unknown.json.gz",
       "actorCount": 31463,
-      "size": 3729426,
-      "sha256": "0f6fa35ec4ea994135592d92894feda58ea1f72a17606614f01466d1cc0dd9d0"
+      "size": 3903865,
+      "sha256": "4b4c7e388ee64535bc2804ea82b20291bffc7140add7d17954a67fa103907fdb"
     },
     {
       "id": "germany",
@@ -31,8 +31,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/germany.json.gz",
       "filename": "germany.json.gz",
       "actorCount": 11406,
-      "size": 1474124,
-      "sha256": "a34a0d97b58b460e258ea5c27cac0b4aa91d14cdc3fca81fa0b7113f15987bc4"
+      "size": 1540238,
+      "sha256": "e2cffcaf798bae303faf5a642aa4f93f8fddee80a00820a46d72d6f76bf7bbfb"
     },
     {
       "id": "japan",
@@ -40,8 +40,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/japan.json.gz",
       "filename": "japan.json.gz",
       "actorCount": 11005,
-      "size": 1346477,
-      "sha256": "abb7bfb88098dc0cb1466e6d3bd5c391d444a4f8391864321a3890c4d62bfd16"
+      "size": 1406322,
+      "sha256": "8156895e2ae30d86536fcfb0853c87e9d8ae484317a3127454e61a8c381deaf4"
     },
     {
       "id": "united_kingdom",
@@ -49,8 +49,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/united_kingdom.json.gz",
       "filename": "united_kingdom.json.gz",
       "actorCount": 10101,
-      "size": 2542198,
-      "sha256": "15b8e329364ac5b65af12ab09cb571f47a164ea20ecbc1b17d63169311412129"
+      "size": 2614498,
+      "sha256": "8702a163069634c0851f820db72d632a15a8926536ed1cfdeae9779266400b69"
     },
     {
       "id": "india",
@@ -58,8 +58,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/india.json.gz",
       "filename": "india.json.gz",
       "actorCount": 9213,
-      "size": 1944870,
-      "sha256": "9edcdac98e06e8e61d28ab65635ffcc4236e342bf2f6b51d8b16a7167cca2adb"
+      "size": 2010298,
+      "sha256": "5b18b2e679a34c3a7e24e635587941daec54ef2b51d823a52b9c1665f241ded8"
     },
     {
       "id": "france",
@@ -67,8 +67,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/france.json.gz",
       "filename": "france.json.gz",
       "actorCount": 8502,
-      "size": 1312459,
-      "sha256": "b52a3e94fdeabfe3ef078dd7d12ea97b5a4e2fa6e80c6f5a94c7329ec21689f4"
+      "size": 1365837,
+      "sha256": "29b682a75736f9985d37cf2a28f05fd82954a52a0bb080947a220bb26f4fa41d"
     },
     {
       "id": "south_korea",
@@ -76,8 +76,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/south_korea.json.gz",
       "filename": "south_korea.json.gz",
       "actorCount": 7417,
-      "size": 948845,
-      "sha256": "ef323cb77141687f00b6e73ea1322dad4008ff70dbbf900960c46528d9e6a435"
+      "size": 988714,
+      "sha256": "b6ac10764c0d028193295f8232754587b30c523f3ffcf02428334dca09984da4"
     },
     {
       "id": "italy",
@@ -85,8 +85,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/italy.json.gz",
       "filename": "italy.json.gz",
       "actorCount": 5425,
-      "size": 812597,
-      "sha256": "963c3c3ee33c2679edf4981c5e7f58b18ebfd9cc0632849f36c909a90cfb8c48"
+      "size": 846533,
+      "sha256": "e16b1eb43ad79fef28dd269477e29af6dcad7c0f6750bf5b2186201a43ac5e7f"
     },
     {
       "id": "turkey",
@@ -94,8 +94,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/turkey.json.gz",
       "filename": "turkey.json.gz",
       "actorCount": 5046,
-      "size": 474012,
-      "sha256": "a6249a8127e7b1a6811355041ab6a3dff30702477f092bb30f6c9e1d6c67cc9e"
+      "size": 500021,
+      "sha256": "4f3ea89d384d3df7970502d18990b50cb13fd79e50087697139ad98c5bebf102"
     },
     {
       "id": "canada",
@@ -103,8 +103,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/canada.json.gz",
       "filename": "canada.json.gz",
       "actorCount": 4741,
-      "size": 1034361,
-      "sha256": "d2b07adf91df7e531e7be6cc445a64ed1dc84218ca6259bfedb84ba20f6afc9c"
+      "size": 1066466,
+      "sha256": "d0bc134256b26acfd924991ee333500ddfe373ebc61883289173b2c37bb1047a"
     },
     {
       "id": "sweden",
@@ -112,8 +112,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/sweden.json.gz",
       "filename": "sweden.json.gz",
       "actorCount": 4593,
-      "size": 629637,
-      "sha256": "4a66cf96b7b20bf506f72117cb3ce468a7d58f5a9faa7f43b40071116a6ebb86"
+      "size": 655525,
+      "sha256": "80cc2cfb7f32f9a810321b93e7868a9bbd92bc095a3dbda0efa58b11fe9a8ec7"
     },
     {
       "id": "brazil",
@@ -121,8 +121,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/brazil.json.gz",
       "filename": "brazil.json.gz",
       "actorCount": 4268,
-      "size": 524230,
-      "sha256": "17b7230bfbc09652878158719b8ad2060dc453c7dd82fa50ff1d5683be76a4ae"
+      "size": 548734,
+      "sha256": "821c8aa6816b691c359238e5e1117415ef385cac169ec6be34a6673622af7f87"
     },
     {
       "id": "russia",
@@ -130,8 +130,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/russia.json.gz",
       "filename": "russia.json.gz",
       "actorCount": 3669,
-      "size": 520695,
-      "sha256": "0bd851451d523d07c91d6186dda7a688a65adefe820c225ebeba3d12f77944f2"
+      "size": 545411,
+      "sha256": "edd4441f54cbcbc12dac6a4109a630c6e2aacf48089a15b67d8c59dd3274bdb0"
     },
     {
       "id": "spain",
@@ -139,8 +139,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/spain.json.gz",
       "filename": "spain.json.gz",
       "actorCount": 3442,
-      "size": 537667,
-      "sha256": "6292350a4f8ff80b7f911579350167801726b949ba9b742cf89fd7d9b77f8eaa"
+      "size": 558788,
+      "sha256": "0594ab70448bac763b62339da78858d2e2e6c64e1522b44c943ac13096211faa"
     },
     {
       "id": "argentina",
@@ -148,8 +148,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/argentina.json.gz",
       "filename": "argentina.json.gz",
       "actorCount": 3327,
-      "size": 408707,
-      "sha256": "a0cda8a80aab559d39ad5f17e9fd27332bdcff9d35a0971934b028706ada0ee8"
+      "size": 427573,
+      "sha256": "b41a504c8f89ff1977750a4bf011450c634bc531c7f9dc15c9d5dc21e95c7cfb"
     },
     {
       "id": "china",
@@ -157,8 +157,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/china.json.gz",
       "filename": "china.json.gz",
       "actorCount": 3258,
-      "size": 341583,
-      "sha256": "1e7d95059f9298620e8f09900da0eb7b720c53d5e894fa78998f0e5c19178f3a"
+      "size": 358521,
+      "sha256": "075502d085d838f3aa16420ae87b182afe1a04fc53408db4953b7395186ed4f9"
     },
     {
       "id": "poland",
@@ -166,8 +166,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/poland.json.gz",
       "filename": "poland.json.gz",
       "actorCount": 3147,
-      "size": 376539,
-      "sha256": "eb3fa3c9f90a7cfcfde900449b87f60552d55fc41cdc19a5563983550744cf46"
+      "size": 394303,
+      "sha256": "44ab6bb0fefa9c76aa1ac87d1688794e57f30a9d67f8c120ababd6b5620728d5"
     },
     {
       "id": "indonesia",
@@ -175,8 +175,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/indonesia.json.gz",
       "filename": "indonesia.json.gz",
       "actorCount": 3138,
-      "size": 356466,
-      "sha256": "20299c78f0be990017d91a661916cb9c88285a01f39668511cbc74deac92b5d3"
+      "size": 373479,
+      "sha256": "9572f914e4dccb22217edd83d8db14b45e1d668a129b2708b75a817390f7cfb0"
     },
     {
       "id": "mexico",
@@ -184,8 +184,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/mexico.json.gz",
       "filename": "mexico.json.gz",
       "actorCount": 3061,
-      "size": 487035,
-      "sha256": "29f19e5bbc234e8f141c33a598ce2be534568313af8189cb11db515992ccd2c5"
+      "size": 505401,
+      "sha256": "8eaa32ec657acbee1a18f56ebfdf78c3ed88765e2e3c28240958591d6a2489aa"
     },
     {
       "id": "kingdom_of_the_netherlands",
@@ -193,8 +193,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/kingdom_of_the_netherlands.json.gz",
       "filename": "kingdom_of_the_netherlands.json.gz",
       "actorCount": 2497,
-      "size": 308330,
-      "sha256": "49c9d29d4118aa18732ed5f0bfe9095e0232ec965bfcf417ebcba5784f8b03fe"
+      "size": 322164,
+      "sha256": "7290fd792576c9e53c6020f8fb62c46e16911f4d3cada6b80b067340f601c9e9"
     },
     {
       "id": "hungary",
@@ -202,8 +202,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/hungary.json.gz",
       "filename": "hungary.json.gz",
       "actorCount": 2477,
-      "size": 272200,
-      "sha256": "46a71ab08e9997f5fb92142013c1f2425f1bf684d1935f983861248407e32d0b"
+      "size": 285750,
+      "sha256": "c4dfc2ce7c38a38f255f44e3bac274bd8cb164fff1f5e5c1a0a58cd52666c30c"
     },
     {
       "id": "egypt",
@@ -211,8 +211,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/egypt.json.gz",
       "filename": "egypt.json.gz",
       "actorCount": 2364,
-      "size": 252158,
-      "sha256": "46ef798a0ad10048ed2f9dd70c46b09f752703b2b3c0f67ef910b9da93e38694"
+      "size": 264502,
+      "sha256": "81c5118dc9c90f114ee464c56d575e08d6e9249c51111825db709dfe73b99314"
     },
     {
       "id": "kingdom_of_denmark",
@@ -220,8 +220,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/kingdom_of_denmark.json.gz",
       "filename": "kingdom_of_denmark.json.gz",
       "actorCount": 2291,
-      "size": 311399,
-      "sha256": "796b9b3de1d6074703f4a5e08a53d0a34e3131d1da7c8108e66ffcee76ffc6a8"
+      "size": 324934,
+      "sha256": "8f6e5cd0f87c1e0ce583e8a423ac653d349f2ad123ecc3701b9e44d5a65f20f0"
     },
     {
       "id": "austria",
@@ -229,8 +229,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/austria.json.gz",
       "filename": "austria.json.gz",
       "actorCount": 2273,
-      "size": 328730,
-      "sha256": "e9627e9e917c8b6883036192a973f998900263975013ff496d1ab6a325376739"
+      "size": 342143,
+      "sha256": "edad721e06160b670984b594b73f9ea5553faf36fd45295ed58446bc2c843807"
     },
     {
       "id": "australia",
@@ -238,8 +238,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/australia.json.gz",
       "filename": "australia.json.gz",
       "actorCount": 2253,
-      "size": 531140,
-      "sha256": "b77e4152fb4b89fc3b9d53dc46d26a0156b30109c7601b9d5eeaade28e54fdaf"
+      "size": 546153,
+      "sha256": "82a0714b64c1d433a06c50ea88bc95ac5ef3edf1d8ee60b4183f81da777d9326"
     },
     {
       "id": "thailand",
@@ -247,8 +247,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/thailand.json.gz",
       "filename": "thailand.json.gz",
       "actorCount": 2196,
-      "size": 257517,
-      "sha256": "198329a329af0a81df68c4a705140f319f7b2c63b8bf1427905e53b1b6fb8535"
+      "size": 269524,
+      "sha256": "8d01af6e9cc014e8fe8d22009a74b1f94e9c20ddabb62378f1a83e0f07fa3a0c"
     },
     {
       "id": "iran",
@@ -256,8 +256,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/iran.json.gz",
       "filename": "iran.json.gz",
       "actorCount": 2124,
-      "size": 255692,
-      "sha256": "79c2896b088104fd4100969c60d4ecf7131844d23f45b74ff839371e2cbc2bea"
+      "size": 267700,
+      "sha256": "78aa052e061bf650ca48b86b4505f94d9f29b5773947f3a5de83e1d4970d9a92"
     },
     {
       "id": "greece",
@@ -265,8 +265,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/greece.json.gz",
       "filename": "greece.json.gz",
       "actorCount": 2062,
-      "size": 208532,
-      "sha256": "d807792d572cfac83070e9efb177ff5f4abd48a02614cc634befbc0a336a1bdc"
+      "size": 219109,
+      "sha256": "674bf7bcbb87953534f48e3a5850e8c5c636d89a657c9d13a8c7c7a7e1e6433d"
     },
     {
       "id": "philippines",
@@ -274,8 +274,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/philippines.json.gz",
       "filename": "philippines.json.gz",
       "actorCount": 2013,
-      "size": 397642,
-      "sha256": "5aaede75cd4ee244e47449c535597ca1755e1b6d3c281893a5ed3668eddd7047"
+      "size": 410718,
+      "sha256": "79e63a9a96b5cb8a7cbfff3eb543ee4698db807e90694843adbe044eae6b4314"
     },
     {
       "id": "people_s_republic_of_china",
@@ -283,8 +283,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/people_s_republic_of_china.json.gz",
       "filename": "people_s_republic_of_china.json.gz",
       "actorCount": 1981,
-      "size": 383561,
-      "sha256": "7ed3b134c2ae33ceacfd7d23949cc7ee992ed6f94fea3bb0144d1ff01bd4a6a1"
+      "size": 395958,
+      "sha256": "5193bf1c56bf8a8425f9367a80a896a4501a46d8f6c1bd1eae9169fbd5d09497"
     },
     {
       "id": "belgium",
@@ -292,8 +292,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/belgium.json.gz",
       "filename": "belgium.json.gz",
       "actorCount": 1747,
-      "size": 210011,
-      "sha256": "d0c343f733c251fd707b8728bc1649bb3e0d825ea034d3daef6fd57b10b57871"
+      "size": 219968,
+      "sha256": "23a0f256c55fe18ca34ca74dc5419b9172d5137ad616ac5fb70b600217a2f8cc"
     },
     {
       "id": "finland",
@@ -301,8 +301,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/finland.json.gz",
       "filename": "finland.json.gz",
       "actorCount": 1712,
-      "size": 191977,
-      "sha256": "101a03771114dc1efb1e708b1bf2f66c9fa5e39a8a5515a8c366a25950d4cd9f"
+      "size": 200614,
+      "sha256": "94c56b9a0e759cfc325b5620d3215c8f604ba829cc7a3dacb62a82d23c9fd6d4"
     },
     {
       "id": "nigeria",
@@ -310,8 +310,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/nigeria.json.gz",
       "filename": "nigeria.json.gz",
       "actorCount": 1672,
-      "size": 200213,
-      "sha256": "8857f1f4fd5429696b378f4b2dc24fd2509d0d087784968e48ba6825c6ae4c25"
+      "size": 209604,
+      "sha256": "02f7cbad635728cfd17e6e9215c526048617831b2350c0b66a57bfb66bf8228a"
     },
     {
       "id": "soviet_union",
@@ -319,8 +319,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/soviet_union.json.gz",
       "filename": "soviet_union.json.gz",
       "actorCount": 1515,
-      "size": 206150,
-      "sha256": "184c8d2b2c4a900bdb50577f7a8dc0ac1ce146c659feef8c62d3384f965469d2"
+      "size": 215810,
+      "sha256": "54e32bc359737e9173622892aa87a535aaeb55551d77ab20981f19c1e676d4d4"
     },
     {
       "id": "czech_republic",
@@ -328,8 +328,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/czech_republic.json.gz",
       "filename": "czech_republic.json.gz",
       "actorCount": 1481,
-      "size": 184672,
-      "sha256": "97efe2c8c6eaa296fdc3441791917b13bc955d01f297dde90826d32761fe8ebd"
+      "size": 193756,
+      "sha256": "70cfbfa642aeb0d78e93bd32bf37643c89a153ce7a33bad44c78b3235082e27b"
     },
     {
       "id": "taiwan",
@@ -337,8 +337,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/taiwan.json.gz",
       "filename": "taiwan.json.gz",
       "actorCount": 1426,
-      "size": 219587,
-      "sha256": "311005b7c121c0b8aee1f833a42862d8aa50efc3ad010a87da46639df548caad"
+      "size": 227621,
+      "sha256": "a89ef31eae2a196f19ba599c8bea7f8977596db115de036eee6228146b126e85"
     },
     {
       "id": "norway",
@@ -346,8 +346,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/norway.json.gz",
       "filename": "norway.json.gz",
       "actorCount": 1363,
-      "size": 216105,
-      "sha256": "2fca225632b127cd2587b1c758d18e1f6186ffc17796d54d6f940fcf8b377928"
+      "size": 223942,
+      "sha256": "78e3bdcd001ba2b977f66f3d7c039ddf362d502ff424a9fd968567bf8fe77e89"
     },
     {
       "id": "israel",
@@ -355,8 +355,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/israel.json.gz",
       "filename": "israel.json.gz",
       "actorCount": 1081,
-      "size": 154130,
-      "sha256": "55d9bddcc8dcc7207934be3241724d4953f4d5faa5fdd34e411acd769689494c"
+      "size": 160764,
+      "sha256": "cd500d193e6dcb95dfb4b1c85520606acda3168d587e295c628bf0cd21e22fef"
     },
     {
       "id": "international",
@@ -364,8 +364,8 @@
       "url": "https://github.com/yaazhilabs/ActorToks/releases/download/data-v2/international.json.gz",
       "filename": "international.json.gz",
       "actorCount": 21242,
-      "size": 3333680,
-      "sha256": "e92da3920667675116f265a051568d22f9c59786ec9160a6c7d6bb83b46f2f7d"
+      "size": 3459909,
+      "sha256": "6aedb93d1365ee6c3eefef0a3802470bac1f550ec19322ab590803f2c424b7a9"
     }
   ]
 }
